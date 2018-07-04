@@ -1,0 +1,6 @@
+c:\users\tanner\source\repos\BetterConsole\BetterConsole\bin\Debug\BetterConsole.dll
+c:\users\tanner\source\repos\BetterConsole\BetterConsole\bin\Debug\BetterConsole.pdb
+c:\users\tanner\source\repos\BetterConsole\BetterConsole\obj\Debug\BetterConsole.csproj.CoreCompileInputs.cache
+c:\users\tanner\source\repos\BetterConsole\BetterConsole\obj\Debug\BetterConsole.dll
+c:\users\tanner\source\repos\BetterConsole\BetterConsole\obj\Debug\BetterConsole.pdb
+C:\Users\Tanner\source\repos\BetterConsole\BetterConsole\obj\Debug\BetterConsole.csprojAssemblyReference.cache
